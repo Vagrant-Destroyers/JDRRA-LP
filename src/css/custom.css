@@ -1,1 +1,5129 @@
-
+.mediaViewInfo {
+  --web-view-name: Homescreen;
+  --web-view-id: Homescreen;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-vertically: true;
+  --web-navigate-on-keypress: true;
+  --web-refresh-for-changes: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Homescreen;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.Homescreen_Class {
+  position: absolute;
+  width: 1920px;
+  height: 4688px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: Homescreen;
+  --web-view-id: Homescreen;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-vertically: true;
+  --web-navigate-on-keypress: true;
+  --web-refresh-for-changes: true;
+  --web-enable-deep-linking: true;
+}
+.Home_Class {
+  position: absolute;
+  width: 2060.05px;
+  height: 1142.99px;
+  left: 0px;
+  top: -62.99px;
+  overflow: visible;
+}
+.Rectngulo_5_Class {
+  fill: rgba(247, 247, 247, 1);
+}
+.Rectngulo_5 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 62.99px;
+}
+.Color_Class {
+  position: absolute;
+  width: 1294.486px;
+  height: 909.553px;
+  left: 765.564px;
+  top: 0px;
+  overflow: visible;
+}
+.Trazado_1_k_Class {
+  fill: url(#Trazado_1_k);
+}
+.Trazado_1_k {
+  overflow: visible;
+  position: absolute;
+  width: 1294.486px;
+  height: 909.553px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.RemoteJobs_Class {
+  left: 76px;
+  top: 120.99px;
+  position: absolute;
+  overflow: visible;
+  width: 191px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 33px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: -0.34px;
+}
+.Barra_de_busqueda_Class {
+  position: absolute;
+  width: 829px;
+  height: 98px;
+  left: 146px;
+  top: 602.99px;
+  overflow: visible;
+}
+.Rectngulo_3_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 3px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectngulo_3 {
+  position: absolute;
+  overflow: visible;
+  width: 694px;
+  height: 98px;
+  left: 0px;
+  top: 0px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_Class {
+  left: 45px;
+  top: 24px;
+  position: absolute;
+  overflow: visible;
+  width: 526px;
+  height: 50px;
+  text-align: center;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 33px;
+  color: rgba(142, 131, 131, 1);
+  letter-spacing: -0.34px;
+}
+.Rectngulo_4_Class {
+  fill: rgba(48, 197, 146, 1);
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 3px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectngulo_4 {
+  position: absolute;
+  overflow: visible;
+  width: 236px;
+  height: 98px;
+  left: 593px;
+  top: 0px;
+}
+.Search_Class {
+  left: 644px;
+  top: 24px;
+  position: absolute;
+  overflow: visible;
+  width: 135px;
+  height: 50px;
+  text-align: center;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 33px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: -0.34px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_r_Class {
+  left: 171px;
+  top: 398.99px;
+  position: absolute;
+  overflow: visible;
+  width: 547px;
+  height: 112px;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 38px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: -0.34px;
+}
+.Home_s_Class {
+  position: absolute;
+  width: 104px;
+  height: 51px;
+  left: 1267px;
+  top: 120.99px;
+  overflow: visible;
+}
+.Home_t_Class {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 105px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 38px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: -0.34px;
+}
+.Blog_Class {
+  position: absolute;
+  width: 77px;
+  height: 51px;
+  left: 1431px;
+  top: 120.99px;
+  overflow: visible;
+}
+.Jobs_Class {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 78px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 38px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: -0.34px;
+}
+.About_us_Class {
+  position: absolute;
+  width: 152px;
+  height: 51px;
+  left: 1569px;
+  top: 120.99px;
+  overflow: visible;
+}
+.About_us_x_Class {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 153px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 38px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: -0.34px;
+}
+.Developer-concept_Class {
+  position: absolute;
+  width: 748px;
+  height: 667.139px;
+  left: 1008px;
+  top: 318.341px;
+  overflow: visible;
+}
+.Background_Complete_Class {
+  position: absolute;
+  width: 704.58px;
+  height: 580.048px;
+  left: 27.391px;
+  top: 0px;
+  overflow: visible;
+}
+.Rectngulo_7_Class {
+  fill: rgba(240, 240, 240, 1);
+}
+.Rectngulo_7 {
+  width: 88.056px;
+  height: 242.023px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 599.4146, 320.8966)
+    rotate(180deg);
+  transform-origin: center;
+}
+.Rectngulo_8_Class {
+  fill: rgba(240, 240, 240, 1);
+}
+.Rectngulo_8 {
+  width: 455.632px;
+  height: 17.11px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 214.9213, 562.9193)
+    rotate(180deg);
+  transform-origin: center;
+}
+.Rectngulo_9_Class {
+  fill: rgba(245, 245, 245, 1);
+}
+.Rectngulo_9 {
+  position: absolute;
+  overflow: visible;
+  width: 401.391px;
+  height: 242.023px;
+  left: 198.024px;
+  top: 320.897px;
+}
+.Rectngulo_10_Class {
+  fill: rgba(240, 240, 240, 1);
+}
+.Rectngulo_10 {
+  position: absolute;
+  overflow: visible;
+  width: 402.934px;
+  height: 88.596px;
+  left: 198.024px;
+  top: 337.273px;
+}
+.Rectngulo_11_Class {
+  fill: rgba(240, 240, 240, 1);
+}
+.Rectngulo_11 {
+  position: absolute;
+  overflow: visible;
+  width: 402.934px;
+  height: 88.596px;
+  left: 198.024px;
+  top: 442.014px;
+}
+.Rectngulo_12_Class {
+  fill: rgba(230, 230, 230, 1);
+}
+.Rectngulo_12 {
+  width: 15.239px;
+  height: 88.596px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 599.4146, 337.2539)
+    rotate(180deg);
+  transform-origin: center;
+}
+.Rectngulo_13_Class {
+  fill: rgba(230, 230, 230, 1);
+}
+.Rectngulo_13 {
+  width: 15.239px;
+  height: 88.596px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 599.4146, 442.014)
+    rotate(180deg);
+  transform-origin: center;
+}
+.Rectngulo_14_Class {
+  fill: rgba(240, 240, 240, 1);
+}
+.Rectngulo_14 {
+  width: 413.119px;
+  height: 14.891px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 186.2959, 306.0053)
+    rotate(180deg);
+  transform-origin: center;
+}
+.Rectngulo_15_Class {
+  fill: rgba(230, 230, 230, 1);
+}
+.Rectngulo_15 {
+  position: absolute;
+  overflow: visible;
+  width: 100.362px;
+  height: 14.891px;
+  left: 599.415px;
+  top: 306.005px;
+}
+.Rectngulo_16_Class {
+  fill: rgba(240, 240, 240, 1);
+}
+.Rectngulo_16 {
+  width: 207.225px;
+  height: 260.483px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 497.3549, 0) rotate(180deg);
+  transform-origin: center;
+}
+.Rectngulo_17_Class {
+  fill: rgba(245, 245, 245, 1);
+}
+.Rectngulo_17 {
+  width: 245.032px;
+  height: 260.483px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 451.5815, 0) rotate(180deg);
+  transform-origin: center;
+}
+.Rectngulo_18_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectngulo_18 {
+  width: 219.435px;
+  height: 203.984px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 464.3992, 28.2298)
+    rotate(-90deg);
+  transform-origin: center;
+}
+.Trazado_2_Class {
+  fill: rgba(230, 230, 230, 1);
+}
+.Trazado_2 {
+  overflow: visible;
+  position: absolute;
+  width: 38.984px;
+  height: 47.548px;
+  left: 596.695px;
+  top: 106.438px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_3_Class {
+  fill: rgba(230, 230, 230, 1);
+}
+.Trazado_3 {
+  overflow: visible;
+  position: absolute;
+  width: 19.714px;
+  height: 58.08px;
+  left: 564.154px;
+  top: 101.192px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_4_Class {
+  fill: rgba(230, 230, 230, 1);
+}
+.Trazado_4 {
+  overflow: visible;
+  position: absolute;
+  width: 39.119px;
+  height: 47.548px;
+  left: 512.497px;
+  top: 106.438px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_19_Class {
+  fill: rgba(240, 240, 240, 1);
+}
+.Rectngulo_19 {
+  width: 13.58px;
+  height: 442.072px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 90.4861, 137.9763)
+    rotate(180deg);
+  transform-origin: center;
+}
+.Trazado_5_Class {
+  fill: rgba(240, 240, 240, 1);
+}
+.Trazado_5 {
+  overflow: visible;
+  position: absolute;
+  width: 37.917px;
+  height: 417.575px;
+  left: 81.905px;
+  top: 159.387px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_6_Class {
+  fill: rgba(240, 240, 240, 1);
+}
+.Trazado_6 {
+  overflow: visible;
+  position: absolute;
+  width: 49.168px;
+  height: 8.044px;
+  left: 72.682px;
+  top: 571.985px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_7_Class {
+  fill: rgba(245, 245, 245, 1);
+}
+.Trazado_7 {
+  overflow: visible;
+  position: absolute;
+  width: 194.513px;
+  height: 163.457px;
+  left: 0px;
+  top: 30.805px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_8_Class {
+  fill: rgba(240, 240, 240, 1);
+}
+.Trazado_8 {
+  overflow: visible;
+  position: absolute;
+  width: 103.854px;
+  height: 84.796px;
+  left: 288.51px;
+  top: 221.21px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_9_Class {
+  fill: rgba(224, 224, 224, 1);
+}
+.Trazado_9 {
+  overflow: visible;
+  position: absolute;
+  width: 124.044px;
+  height: 86.321px;
+  left: 242.417px;
+  top: 165.945px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_10_Class {
+  fill: rgba(230, 230, 230, 1);
+}
+.Trazado_10 {
+  overflow: visible;
+  position: absolute;
+  width: 101.738px;
+  height: 76.539px;
+  left: 332.874px;
+  top: 160.835px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_11_Class {
+  fill: rgba(240, 240, 240, 1);
+}
+.Trazado_11 {
+  overflow: visible;
+  position: absolute;
+  width: 107.122px;
+  height: 67.393px;
+  left: 250.529px;
+  top: 115.735px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_12_Class {
+  fill: rgba(235, 235, 235, 1);
+}
+.Trazado_12 {
+  overflow: visible;
+  position: absolute;
+  width: 91.175px;
+  height: 57.11px;
+  left: 323.44px;
+  top: 112.037px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_13_Class {
+  fill: rgba(245, 245, 245, 1);
+}
+.Trazado_13 {
+  overflow: visible;
+  position: absolute;
+  width: 88.373px;
+  height: 68.697px;
+  left: 263.067px;
+  top: 67.419px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_14_Class {
+  fill: rgba(250, 250, 250, 1);
+}
+.Trazado_14 {
+  overflow: visible;
+  position: absolute;
+  width: 63.156px;
+  height: 41.616px;
+  left: 341.089px;
+  top: 79.077px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Shadow_Class {
+  position: absolute;
+  width: 748px;
+  height: 43.671px;
+  left: 0px;
+  top: 623.468px;
+  overflow: visible;
+}
+.Path_Class {
+  fill: rgba(245, 245, 245, 1);
+}
+.Path {
+  position: absolute;
+  overflow: visible;
+  width: 748px;
+  height: 43.671px;
+  left: 0px;
+  top: 0px;
+}
+.Desk_Class {
+  position: absolute;
+  width: 655.354px;
+  height: 594.862px;
+  left: 45.137px;
+  top: 50.094px;
+  overflow: visible;
+}
+.Rectngulo_20_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Rectngulo_20 {
+  position: absolute;
+  overflow: visible;
+  width: 655.354px;
+  height: 23.514px;
+  left: 0px;
+  top: 276.647px;
+}
+.Rectngulo_21_Class {
+  opacity: 0.3;
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectngulo_21 {
+  position: absolute;
+  overflow: visible;
+  width: 175.397px;
+  height: 23.514px;
+  left: 0px;
+  top: 276.647px;
+}
+.Trazado_15_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_15 {
+  overflow: visible;
+  position: absolute;
+  width: 30.516px;
+  height: 294.702px;
+  left: 162.937px;
+  top: 300.161px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_16_Class {
+  opacity: 0.3;
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_16 {
+  overflow: visible;
+  position: absolute;
+  width: 15.007px;
+  height: 288.356px;
+  left: 163.187px;
+  top: 306.507px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_17_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_17 {
+  overflow: visible;
+  position: absolute;
+  width: 30.535px;
+  height: 294.702px;
+  left: 18.306px;
+  top: 300.161px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_18_Class {
+  opacity: 0.3;
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_18 {
+  overflow: visible;
+  position: absolute;
+  width: 15.026px;
+  height: 288.356px;
+  left: 18.556px;
+  top: 306.507px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_19_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_19 {
+  overflow: visible;
+  position: absolute;
+  width: 30.535px;
+  height: 294.702px;
+  left: 606.513px;
+  top: 300.161px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_20_Class {
+  opacity: 0.3;
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_20 {
+  overflow: visible;
+  position: absolute;
+  width: 15.007px;
+  height: 288.356px;
+  left: 606.764px;
+  top: 306.507px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_21_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_21 {
+  overflow: visible;
+  position: absolute;
+  width: 30.516px;
+  height: 294.702px;
+  left: 461.901px;
+  top: 300.161px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_22_Class {
+  opacity: 0.3;
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_22 {
+  overflow: visible;
+  position: absolute;
+  width: 15.026px;
+  height: 288.356px;
+  left: 462.133px;
+  top: 306.507px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_23_Class {
+  fill: rgba(38, 50, 56, 1);
+}
+.Trazado_23 {
+  overflow: visible;
+  position: absolute;
+  width: 197.631px;
+  height: 119.413px;
+  left: 146.918px;
+  top: 150.778px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_24_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_24 {
+  overflow: visible;
+  position: absolute;
+  width: 189.389px;
+  height: 111.272px;
+  left: 152.382px;
+  top: 153.268px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_25_Class {
+  fill: rgba(190, 237, 209, 1);
+}
+.Trazado_25 {
+  overflow: visible;
+  position: absolute;
+  width: 52.615px;
+  height: 101.5px;
+  left: 279.524px;
+  top: 158.076px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_26_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_26 {
+  overflow: visible;
+  position: absolute;
+  width: 32.097px;
+  height: 4.07px;
+  left: 164.673px;
+  top: 162.223px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_27_Class {
+  fill: rgba(235, 235, 235, 1);
+}
+.Trazado_27 {
+  overflow: visible;
+  position: absolute;
+  width: 55.63px;
+  height: 4.07px;
+  left: 179.101px;
+  top: 172.311px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_28_Class {
+  fill: rgba(235, 235, 235, 1);
+}
+.Trazado_28 {
+  overflow: visible;
+  position: absolute;
+  width: 62.247px;
+  height: 4.07px;
+  left: 181.975px;
+  top: 182.419px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_29_Class {
+  fill: rgba(235, 235, 235, 1);
+}
+.Trazado_29 {
+  overflow: visible;
+  position: absolute;
+  width: 50.287px;
+  height: 4.07px;
+  left: 184.869px;
+  top: 192.507px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_30_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_30 {
+  overflow: visible;
+  position: absolute;
+  width: 20.62px;
+  height: 4.07px;
+  left: 174.163px;
+  top: 208.903px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_31_Class {
+  fill: rgba(235, 235, 235, 1);
+}
+.Trazado_31 {
+  overflow: visible;
+  position: absolute;
+  width: 24.941px;
+  height: 4.07px;
+  left: 188.591px;
+  top: 218.991px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_32_Class {
+  fill: rgba(235, 235, 235, 1);
+}
+.Trazado_32 {
+  overflow: visible;
+  position: absolute;
+  width: 24.941px;
+  height: 4.07px;
+  left: 218.432px;
+  top: 218.991px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_33_Class {
+  fill: rgba(235, 235, 235, 1);
+}
+.Trazado_33 {
+  overflow: visible;
+  position: absolute;
+  width: 82.269px;
+  height: 4.07px;
+  left: 191.465px;
+  top: 229.08px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_34_Class {
+  fill: rgba(235, 235, 235, 1);
+}
+.Trazado_34 {
+  overflow: visible;
+  position: absolute;
+  width: 62.922px;
+  height: 4.07px;
+  left: 194.359px;
+  top: 239.187px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_35_Class {
+  fill: rgba(38, 50, 56, 1);
+}
+.Trazado_35 {
+  overflow: visible;
+  position: absolute;
+  width: 225.733px;
+  height: 7.079px;
+  left: 170.45px;
+  top: 269.587px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_36_Class {
+  fill: rgba(197, 226, 208, 1);
+}
+.Trazado_36 {
+  overflow: visible;
+  position: absolute;
+  width: 186.653px;
+  height: 101.423px;
+  left: 91.534px;
+  top: 27.294px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_37_Class {
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_37 {
+  overflow: visible;
+  position: absolute;
+  width: 34.2px;
+  height: 3.607px;
+  left: 133.733px;
+  top: 26.774px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_38_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_38 {
+  overflow: visible;
+  position: absolute;
+  width: 14.178px;
+  height: 3.588px;
+  left: 148.315px;
+  top: 32.522px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_39_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_39 {
+  overflow: visible;
+  position: absolute;
+  width: 21.43px;
+  height: 3.588px;
+  left: 163.4px;
+  top: 32.522px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_40_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_40 {
+  overflow: visible;
+  position: absolute;
+  width: 44.327px;
+  height: 3.607px;
+  left: 149.511px;
+  top: 38.251px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_41_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_41 {
+  overflow: visible;
+  position: absolute;
+  width: 37.595px;
+  height: 3.607px;
+  left: 150.707px;
+  top: 43.98px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_42_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_42 {
+  overflow: visible;
+  position: absolute;
+  width: 24.208px;
+  height: 3.588px;
+  left: 189.286px;
+  top: 108.579px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_43_Class {
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_43 {
+  overflow: visible;
+  position: absolute;
+  width: 35.107px;
+  height: 3.607px;
+  left: 148.392px;
+  top: 97.083px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_44_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_44 {
+  overflow: visible;
+  position: absolute;
+  width: 32.695px;
+  height: 3.607px;
+  left: 165.367px;
+  top: 114.308px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_45_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_45 {
+  overflow: visible;
+  position: absolute;
+  width: 24.208px;
+  height: 3.588px;
+  left: 164.171px;
+  top: 108.579px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_46_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_46 {
+  overflow: visible;
+  position: absolute;
+  width: 47.645px;
+  height: 3.607px;
+  left: 162.975px;
+  top: 102.831px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_47_Class {
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_47 {
+  overflow: visible;
+  position: absolute;
+  width: 38.598px;
+  height: 3.607px;
+  left: 128.158px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_48_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_48 {
+  overflow: visible;
+  position: absolute;
+  width: 42.475px;
+  height: 3.588px;
+  left: 143.705px;
+  top: 17.225px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_49_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_49 {
+  overflow: visible;
+  position: absolute;
+  width: 35.319px;
+  height: 3.607px;
+  left: 142.509px;
+  top: 11.477px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_50_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_50 {
+  overflow: visible;
+  position: absolute;
+  width: 38.829px;
+  height: 3.588px;
+  left: 141.313px;
+  top: 5.748px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_51_Class {
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_51 {
+  overflow: visible;
+  position: absolute;
+  width: 27.044px;
+  height: 3.588px;
+  left: 139.269px;
+  top: 53.335px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_52_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_52 {
+  overflow: visible;
+  position: absolute;
+  width: 52.139px;
+  height: 3.607px;
+  left: 156.243px;
+  top: 70.541px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_53_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_53 {
+  overflow: visible;
+  position: absolute;
+  width: 22.048px;
+  height: 3.588px;
+  left: 155.047px;
+  top: 64.812px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_54_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_54 {
+  overflow: visible;
+  position: absolute;
+  width: 22.048px;
+  height: 3.588px;
+  left: 178.156px;
+  top: 64.812px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_55_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_55 {
+  overflow: visible;
+  position: absolute;
+  width: 47.645px;
+  height: 3.607px;
+  left: 153.851px;
+  top: 59.064px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_56_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_56 {
+  overflow: visible;
+  position: absolute;
+  width: 41.588px;
+  height: 3.607px;
+  left: 159.831px;
+  top: 87.747px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_57_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_57 {
+  overflow: visible;
+  position: absolute;
+  width: 12.615px;
+  height: 3.588px;
+  left: 158.635px;
+  top: 82.018px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_58_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_58 {
+  overflow: visible;
+  position: absolute;
+  width: 17.708px;
+  height: 3.588px;
+  left: 172.138px;
+  top: 82.018px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_59_Class {
+  opacity: 0.4;
+  fill: rgba(53, 170, 103, 1);
+}
+.Trazado_59 {
+  overflow: visible;
+  position: absolute;
+  width: 47.645px;
+  height: 3.588px;
+  left: 157.439px;
+  top: 76.289px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_60_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_60 {
+  overflow: visible;
+  position: absolute;
+  width: 17.553px;
+  height: 3.607px;
+  left: 223.736px;
+  top: 71.718px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_61_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_61 {
+  overflow: visible;
+  position: absolute;
+  width: 26.639px;
+  height: 3.607px;
+  left: 242.621px;
+  top: 71.718px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_62_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_62 {
+  overflow: visible;
+  position: absolute;
+  width: 55.322px;
+  height: 3.588px;
+  left: 224.932px;
+  top: 77.466px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_63_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_63 {
+  overflow: visible;
+  position: absolute;
+  width: 46.873px;
+  height: 3.607px;
+  left: 226.128px;
+  top: 83.195px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_64_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_64 {
+  overflow: visible;
+  position: absolute;
+  width: 53.007px;
+  height: 3.607px;
+  left: 241.406px;
+  top: 52.486px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_65_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_65 {
+  overflow: visible;
+  position: absolute;
+  width: 44.037px;
+  height: 3.588px;
+  left: 240.209px;
+  top: 46.757px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_66_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_66 {
+  overflow: visible;
+  position: absolute;
+  width: 48.435px;
+  height: 3.607px;
+  left: 227.999px;
+  top: 41.009px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_67_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_67 {
+  overflow: visible;
+  position: absolute;
+  width: 65.101px;
+  height: 3.588px;
+  left: 231.664px;
+  top: 109.756px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_68_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_68 {
+  overflow: visible;
+  position: absolute;
+  width: 27.41px;
+  height: 3.607px;
+  left: 230.468px;
+  top: 104.008px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_69_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_69 {
+  overflow: visible;
+  position: absolute;
+  width: 27.41px;
+  height: 3.607px;
+  left: 259.402px;
+  top: 104.008px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_70_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_70 {
+  overflow: visible;
+  position: absolute;
+  width: 59.469px;
+  height: 3.588px;
+  left: 229.272px;
+  top: 98.279px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_71_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_71 {
+  overflow: visible;
+  position: absolute;
+  width: 51.869px;
+  height: 3.607px;
+  left: 235.252px;
+  top: 126.962px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_72_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_72 {
+  overflow: visible;
+  position: absolute;
+  width: 15.624px;
+  height: 3.588px;
+  left: 234.056px;
+  top: 121.233px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_73_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_73 {
+  overflow: visible;
+  position: absolute;
+  width: 21.97px;
+  height: 3.588px;
+  left: 250.973px;
+  top: 121.233px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_74_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_74 {
+  overflow: visible;
+  position: absolute;
+  width: 59.469px;
+  height: 3.607px;
+  left: 232.86px;
+  top: 115.485px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_75_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_75 {
+  overflow: visible;
+  position: absolute;
+  width: 40.758px;
+  height: 3.588px;
+  left: 95.193px;
+  top: 131.418px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_76_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_76 {
+  overflow: visible;
+  position: absolute;
+  width: 30.111px;
+  height: 3.607px;
+  left: 93.997px;
+  top: 125.67px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_77_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_77 {
+  overflow: visible;
+  position: absolute;
+  width: 30.11px;
+  height: 3.607px;
+  left: 125.438px;
+  top: 125.67px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_78_Class {
+  opacity: 0.4;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_78 {
+  overflow: visible;
+  position: absolute;
+  width: 59.469px;
+  height: 3.588px;
+  left: 92.801px;
+  top: 119.941px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_79_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_79 {
+  overflow: visible;
+  position: absolute;
+  width: 24.767px;
+  height: 37.46px;
+  left: 575.978px;
+  top: 239.187px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_80_Class {
+  opacity: 0.4;
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_80 {
+  overflow: visible;
+  position: absolute;
+  width: 24.767px;
+  height: 37.46px;
+  left: 575.978px;
+  top: 239.187px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_81_Class {
+  fill: rgba(37, 53, 48, 1);
+}
+.Trazado_81 {
+  overflow: visible;
+  position: absolute;
+  width: 47.76px;
+  height: 63.481px;
+  left: 48.84px;
+  top: 213.166px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_82_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_82 {
+  overflow: visible;
+  position: absolute;
+  width: 64.368px;
+  height: 80.494px;
+  left: 56.055px;
+  top: 196.153px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_83_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_83 {
+  overflow: visible;
+  position: absolute;
+  width: 17.052px;
+  height: 80.494px;
+  left: 53.084px;
+  top: 196.153px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_84_Class {
+  opacity: 0.3;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_84 {
+  overflow: visible;
+  position: absolute;
+  width: 17.052px;
+  height: 80.494px;
+  left: 53.084px;
+  top: 196.153px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_85_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_85 {
+  overflow: visible;
+  position: absolute;
+  width: 43.883px;
+  height: 63.288px;
+  left: 66.297px;
+  top: 204.756px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_86_Class {
+  opacity: 0.6;
+  fill: rgba(67, 255, 156, 1);
+}
+.Trazado_86 {
+  overflow: visible;
+  position: absolute;
+  width: 12.615px;
+  height: 63.288px;
+  left: 97.565px;
+  top: 204.756px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Character_Class {
+  position: absolute;
+  width: 335.233px;
+  height: 567.411px;
+  left: 268.924px;
+  top: 84.316px;
+  overflow: visible;
+}
+.Trazado_87_Class {
+  fill: rgba(38, 50, 56, 1);
+}
+.Trazado_87 {
+  overflow: visible;
+  position: absolute;
+  width: 4.485px;
+  height: 5.832px;
+  left: 127.565px;
+  top: 56.96px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_88_Class {
+  fill: rgba(255, 86, 82, 1);
+}
+.Trazado_88 {
+  overflow: visible;
+  position: absolute;
+  width: 8.024px;
+  height: 16.933px;
+  left: 130.981px;
+  top: 62.07px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_89_Class {
+  fill: rgba(38, 50, 56, 1);
+}
+.Trazado_89 {
+  overflow: visible;
+  position: absolute;
+  width: 9.177px;
+  height: 5.991px;
+  left: 123.018px;
+  top: 44.496px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_90_Class {
+  fill: rgba(255, 139, 123, 1);
+}
+.Trazado_90 {
+  overflow: visible;
+  position: absolute;
+  width: 48.43px;
+  height: 71.869px;
+  left: 160.75px;
+  top: 56.63px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_91_Class {
+  fill: rgba(38, 50, 56, 1);
+}
+.Trazado_91 {
+  overflow: visible;
+  position: absolute;
+  width: 48.893px;
+  height: 40.916px;
+  left: 166.73px;
+  top: 82.089px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_92_Class {
+  fill: rgba(255, 139, 123, 1);
+}
+.Trazado_92 {
+  overflow: visible;
+  position: absolute;
+  width: 25.655px;
+  height: 21.488px;
+  left: 129.168px;
+  top: 214.417px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_93_Class {
+  fill: rgba(255, 139, 123, 1);
+}
+.Trazado_93 {
+  overflow: visible;
+  position: absolute;
+  width: 16.705px;
+  height: 21.546px;
+  left: 112.907px;
+  top: 214.417px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_94_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_94 {
+  overflow: visible;
+  position: absolute;
+  width: 113.17px;
+  height: 115.831px;
+  left: 144.619px;
+  top: 121.905px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_95_Class {
+  opacity: 0.2;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_95 {
+  overflow: visible;
+  position: absolute;
+  width: 113.17px;
+  height: 115.831px;
+  left: 144.619px;
+  top: 121.905px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_96_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_96 {
+  overflow: visible;
+  position: absolute;
+  width: 130.12px;
+  height: 181.177px;
+  left: 142.863px;
+  top: 96.085px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_97_Class {
+  opacity: 0.2;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_97 {
+  overflow: visible;
+  position: absolute;
+  width: 14.795px;
+  height: 39.196px;
+  left: 151.235px;
+  top: 165.673px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_98_Class {
+  fill: rgba(255, 139, 123, 1);
+}
+.Trazado_98 {
+  overflow: visible;
+  position: absolute;
+  width: 26.484px;
+  height: 22.338px;
+  left: 30.928px;
+  top: 214.282px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_99_Class {
+  fill: rgba(255, 139, 123, 1);
+}
+.Trazado_99 {
+  overflow: visible;
+  position: absolute;
+  width: 20.485px;
+  height: 21.488px;
+  left: 11.369px;
+  top: 214.262px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_100_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_100 {
+  overflow: visible;
+  position: absolute;
+  width: 136.684px;
+  height: 118.348px;
+  left: 49.581px;
+  top: 122.426px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_101_Class {
+  fill: rgba(255, 139, 123, 1);
+}
+.Trazado_101 {
+  overflow: visible;
+  position: absolute;
+  width: 31.731px;
+  height: 48.898px;
+  left: 123.536px;
+  top: 495.442px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_102_Class {
+  fill: rgba(38, 50, 56, 1);
+}
+.Trazado_102 {
+  overflow: visible;
+  position: absolute;
+  width: 57.737px;
+  height: 23.996px;
+  left: 105.007px;
+  top: 539.827px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Grupo_1_Class {
+  opacity: 0.2;
+  position: absolute;
+  width: 26.619px;
+  height: 27.082px;
+  left: 123.536px;
+  top: 495.442px;
+  overflow: visible;
+}
+.Trazado_103_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_103 {
+  overflow: visible;
+  position: absolute;
+  width: 26.619px;
+  height: 27.082px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_104_Class {
+  fill: rgba(255, 139, 123, 1);
+}
+.Trazado_104 {
+  overflow: visible;
+  position: absolute;
+  width: 65.204px;
+  height: 81.08px;
+  left: 126.453px;
+  top: 13.308px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_105_Class {
+  fill: rgba(38, 50, 56, 1);
+}
+.Trazado_105 {
+  overflow: visible;
+  position: absolute;
+  width: 76.646px;
+  height: 82.982px;
+  left: 122.677px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_106_Class {
+  fill: rgba(255, 139, 123, 1);
+}
+.Trazado_106 {
+  overflow: visible;
+  position: absolute;
+  width: 13.857px;
+  height: 23.389px;
+  left: 140.992px;
+  top: 50.942px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_107_Class {
+  fill: rgba(152, 249, 197, 1);
+}
+.Trazado_107 {
+  overflow: visible;
+  position: absolute;
+  width: 185.276px;
+  height: 237.895px;
+  left: 92.321px;
+  top: 277.184px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_108_Class {
+  opacity: 0.5;
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_108 {
+  overflow: visible;
+  position: absolute;
+  width: 185.276px;
+  height: 237.895px;
+  left: 92.321px;
+  top: 277.184px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_109_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_109 {
+  overflow: visible;
+  position: absolute;
+  width: 45.68px;
+  height: 17.09px;
+  left: 113.984px;
+  top: 500.458px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_110_Class {
+  fill: rgba(255, 139, 123, 1);
+}
+.Trazado_110 {
+  overflow: visible;
+  position: absolute;
+  width: 27.294px;
+  height: 48.898px;
+  left: 36.753px;
+  top: 497.834px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_111_Class {
+  fill: rgba(38, 50, 56, 1);
+}
+.Trazado_111 {
+  overflow: visible;
+  position: absolute;
+  width: 72.021px;
+  height: 24.17px;
+  left: 0px;
+  top: 539.808px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_112_Class {
+  opacity: 0.2;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_112 {
+  overflow: visible;
+  position: absolute;
+  width: 24.285px;
+  height: 26.619px;
+  left: 36.773px;
+  top: 497.854px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_113_Class {
+  fill: rgba(140, 221, 174, 1);
+}
+.Trazado_113 {
+  overflow: visible;
+  position: absolute;
+  width: 260.323px;
+  height: 235.522px;
+  left: 0.996px;
+  top: 277.184px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_114_Class {
+  opacity: 0.5;
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_114 {
+  overflow: visible;
+  position: absolute;
+  width: 260.323px;
+  height: 235.522px;
+  left: 0.996px;
+  top: 277.184px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_115_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_115 {
+  overflow: visible;
+  position: absolute;
+  width: 43.268px;
+  height: 15.836px;
+  left: 26.817px;
+  top: 502.946px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_116_Class {
+  fill: rgba(38, 50, 56, 1);
+}
+.Trazado_116 {
+  overflow: visible;
+  position: absolute;
+  width: 161.314px;
+  height: 205.508px;
+  left: 173.919px;
+  top: 174.391px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_117_Class {
+  fill: rgba(38, 50, 56, 1);
+}
+.Trazado_117 {
+  overflow: visible;
+  position: absolute;
+  width: 154.026px;
+  height: 59.16px;
+  left: 71.791px;
+  top: 320.739px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_118_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_118 {
+  overflow: visible;
+  position: absolute;
+  width: 72.74px;
+  height: 19.579px;
+  left: 156.27px;
+  top: 379.88px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_22_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Rectngulo_22 {
+  position: absolute;
+  overflow: visible;
+  width: 21.739px;
+  height: 145.461px;
+  left: 181.77px;
+  top: 399.459px;
+}
+.Trazado_119_Class {
+  opacity: 0.7;
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_119 {
+  overflow: visible;
+  position: absolute;
+  width: 21.739px;
+  height: 141.969px;
+  left: 181.77px;
+  top: 402.95px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_120_Class {
+  opacity: 0.7;
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_120 {
+  overflow: visible;
+  position: absolute;
+  width: 5.189px;
+  height: 140.831px;
+  left: 193.016px;
+  top: 404.088px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_121_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_121 {
+  overflow: visible;
+  position: absolute;
+  width: 105.52px;
+  height: 25.192px;
+  left: 139.88px;
+  top: 542.219px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Home2_Class {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 1080px;
+  overflow: visible;
+}
+.Rectngulo_23_Class {
+  fill: rgba(213, 239, 230, 1);
+}
+.Rectngulo_23 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_ez_Class {
+  left: 1068px;
+  top: 371px;
+  position: absolute;
+  overflow: visible;
+  width: 753px;
+  height: 113px;
+  text-align: center;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 38px;
+  color: rgba(64, 64, 64, 1);
+  letter-spacing: -0.34px;
+  text-transform: uppercase;
+}
+.Grupo_4_Class {
+  position: absolute;
+  width: 852.182px;
+  height: 617.73px;
+  left: 178px;
+  top: 175px;
+  overflow: visible;
+}
+.Rectngulo_25_Class {
+  fill: rgba(48, 197, 146, 1);
+}
+.Rectngulo_25 {
+  position: absolute;
+  overflow: visible;
+  width: 104px;
+  height: 60px;
+  left: 688.013px;
+  top: 555.912px;
+}
+.Trazado_145_Class {
+  fill: rgba(47, 46, 65, 1);
+}
+.Trazado_145 {
+  overflow: visible;
+  position: absolute;
+  width: 42.726px;
+  height: 42.251px;
+  left: 577.661px;
+  top: 574.336px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_146_Class {
+  fill: rgba(47, 46, 65, 1);
+}
+.Trazado_146 {
+  overflow: visible;
+  position: absolute;
+  width: 31.461px;
+  height: 43.685px;
+  left: 714.552px;
+  top: 519.948px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_147_Class {
+  fill: rgba(47, 46, 65, 1);
+}
+.Trazado_147 {
+  overflow: visible;
+  position: absolute;
+  width: 148.337px;
+  height: 369.883px;
+  left: 590.078px;
+  top: 215.335px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_148_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Trazado_148 {
+  overflow: visible;
+  position: absolute;
+  width: 574.476px;
+  height: 2.182px;
+  left: 277.706px;
+  top: 615.548px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_26_Class {
+  fill: rgba(230, 230, 230, 1);
+}
+.Rectngulo_26 {
+  position: absolute;
+  overflow: visible;
+  width: 471.013px;
+  height: 92.995px;
+  left: 0px;
+  top: 294.368px;
+}
+.Rectngulo_27_Class {
+  fill: rgba(230, 230, 230, 1);
+}
+.Rectngulo_27 {
+  position: absolute;
+  overflow: visible;
+  width: 471.013px;
+  height: 92.995px;
+  left: 0px;
+  top: 147.426px;
+}
+.Rectngulo_28_Class {
+  fill: rgba(230, 230, 230, 1);
+}
+.Rectngulo_28 {
+  position: absolute;
+  overflow: visible;
+  width: 471.013px;
+  height: 92.995px;
+  left: 0px;
+  top: 0px;
+}
+.Trazado_149_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_149 {
+  overflow: visible;
+  position: absolute;
+  width: 450.931px;
+  height: 72.913px;
+  left: 10.041px;
+  top: 10.041px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_150_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_150 {
+  overflow: visible;
+  position: absolute;
+  width: 450.931px;
+  height: 72.912px;
+  left: 10.041px;
+  top: 157.792px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_151_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Trazado_151 {
+  overflow: visible;
+  position: absolute;
+  width: 450.931px;
+  height: 72.912px;
+  left: 10.041px;
+  top: 304.41px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Elipse_1_Class {
+  fill: rgba(48, 197, 146, 1);
+}
+.Elipse_1 {
+  position: absolute;
+  overflow: visible;
+  width: 55.555px;
+  height: 55.555px;
+  left: 21.739px;
+  top: 18.116px;
+}
+.Rectngulo_29_Class {
+  fill: rgba(48, 197, 146, 1);
+}
+.Rectngulo_29 {
+  position: absolute;
+  overflow: visible;
+  width: 274.154px;
+  height: 6.039px;
+  left: 115.942px;
+  top: 35.024px;
+}
+.Rectngulo_30_Class {
+  fill: rgba(48, 197, 146, 1);
+}
+.Rectngulo_30 {
+  position: absolute;
+  overflow: visible;
+  width: 274.154px;
+  height: 6.039px;
+  left: 115.942px;
+  top: 50.724px;
+}
+.Elipse_2_Class {
+  fill: rgba(204, 204, 204, 1);
+}
+.Elipse_2 {
+  position: absolute;
+  overflow: visible;
+  width: 55.555px;
+  height: 55.555px;
+  left: 21.739px;
+  top: 166.749px;
+}
+.Rectngulo_31_Class {
+  fill: rgba(204, 204, 204, 1);
+}
+.Rectngulo_31 {
+  position: absolute;
+  overflow: visible;
+  width: 274.154px;
+  height: 6.039px;
+  left: 115.942px;
+  top: 183.658px;
+}
+.Rectngulo_32_Class {
+  fill: rgba(204, 204, 204, 1);
+}
+.Rectngulo_32 {
+  position: absolute;
+  overflow: visible;
+  width: 274.154px;
+  height: 6.039px;
+  left: 115.942px;
+  top: 199.358px;
+}
+.Elipse_3_Class {
+  fill: rgba(204, 204, 204, 1);
+}
+.Elipse_3 {
+  position: absolute;
+  overflow: visible;
+  width: 55.555px;
+  height: 55.555px;
+  left: 21.739px;
+  top: 313.692px;
+}
+.Rectngulo_33_Class {
+  fill: rgba(204, 204, 204, 1);
+}
+.Rectngulo_33 {
+  position: absolute;
+  overflow: visible;
+  width: 274.154px;
+  height: 6.039px;
+  left: 115.942px;
+  top: 330.6px;
+}
+.Rectngulo_34_Class {
+  fill: rgba(204, 204, 204, 1);
+}
+.Rectngulo_34 {
+  position: absolute;
+  overflow: visible;
+  width: 274.154px;
+  height: 6.039px;
+  left: 115.942px;
+  top: 346.301px;
+}
+.Trazado_152_Class {
+  fill: rgba(47, 46, 65, 1);
+}
+.Trazado_152 {
+  overflow: visible;
+  position: absolute;
+  width: 89.665px;
+  height: 83.673px;
+  left: 594.623px;
+  top: 39.026px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_153_Class {
+  fill: rgba(255, 184, 184, 1);
+}
+.Trazado_153 {
+  overflow: visible;
+  position: absolute;
+  width: 52.021px;
+  height: 88.819px;
+  left: 623.518px;
+  top: 95.833px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Elipse_4_Class {
+  fill: rgba(255, 184, 184, 1);
+}
+.Elipse_4 {
+  position: absolute;
+  overflow: visible;
+  width: 58.142px;
+  height: 58.142px;
+  left: 617.525px;
+  top: 49.97px;
+}
+.Trazado_154_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_154 {
+  overflow: visible;
+  position: absolute;
+  width: 90.72px;
+  height: 152.166px;
+  left: 607.644px;
+  top: 125.14px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_155_Class {
+  fill: rgba(87, 136, 112, 1);
+}
+.Trazado_155 {
+  overflow: visible;
+  position: absolute;
+  width: 56.581px;
+  height: 141.058px;
+  left: 581.385px;
+  top: 121.577px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_156_Class {
+  fill: rgba(47, 46, 65, 1);
+}
+.Trazado_156 {
+  overflow: visible;
+  position: absolute;
+  width: 57.364px;
+  height: 31.199px;
+  left: 616.919px;
+  top: 45.384px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_157_Class {
+  fill: rgba(87, 136, 112, 1);
+}
+.Trazado_157 {
+  overflow: visible;
+  position: absolute;
+  width: 66.498px;
+  height: 146.176px;
+  left: 660.204px;
+  top: 116.178px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_158_Class {
+  fill: rgba(255, 184, 184, 1);
+}
+.Trazado_158 {
+  overflow: visible;
+  position: absolute;
+  width: 34.387px;
+  height: 46.968px;
+  left: 692.173px;
+  top: 232.078px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_159_Class {
+  fill: rgba(87, 136, 112, 1);
+}
+.Trazado_159 {
+  overflow: visible;
+  position: absolute;
+  width: 43.677px;
+  height: 123.569px;
+  left: 699.749px;
+  top: 127.508px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_160_Class {
+  fill: rgba(255, 184, 184, 1);
+}
+.Trazado_160 {
+  overflow: visible;
+  position: absolute;
+  width: 34.387px;
+  height: 46.968px;
+  left: 601.208px;
+  top: 233.657px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_161_Class {
+  fill: rgba(87, 136, 112, 1);
+}
+.Trazado_161 {
+  overflow: visible;
+  position: absolute;
+  width: 43.676px;
+  height: 123.569px;
+  left: 584.343px;
+  top: 129.086px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Lorem_ipsum_dolor_sit_amet_con_fw_Class {
+  left: 1116px;
+  top: 508px;
+  position: absolute;
+  overflow: visible;
+  width: 658px;
+  height: 285px;
+  text-align: right;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 31px;
+  color: rgba(64, 64, 64, 1);
+  letter-spacing: -0.34px;
+}
+.Home3_Class {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 2160px;
+  overflow: visible;
+}
+.Rectngulo_35_Class {
+  fill: rgba(247, 247, 247, 1);
+}
+.Rectngulo_35 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_fz_Class {
+  left: 99px;
+  top: 329px;
+  position: absolute;
+  overflow: hidden;
+  width: 753px;
+  height: 113px;
+  text-align: center;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 38px;
+  color: rgba(64, 64, 64, 1);
+  letter-spacing: -0.34px;
+  text-transform: uppercase;
+}
+.Lorem_ipsum_dolor_sit_amet_con_f_Class {
+  left: 147px;
+  top: 466px;
+  position: absolute;
+  overflow: visible;
+  width: 658px;
+  height: 285px;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 31px;
+  color: rgba(64, 64, 64, 1);
+  letter-spacing: -0.34px;
+}
+.RemoteDeveloper_Class {
+  position: absolute;
+  width: 798.627px;
+  height: 689.223px;
+  left: 960px;
+  top: 195px;
+  overflow: visible;
+}
+.Elipse_5_Class {
+  fill: rgba(160, 97, 106, 1);
+}
+.Elipse_5 {
+  position: absolute;
+  overflow: visible;
+  width: 147.072px;
+  height: 147.072px;
+  left: 362.386px;
+  top: 44.869px;
+}
+.Trazado_162_Class {
+  fill: rgba(160, 97, 106, 1);
+}
+.Trazado_162 {
+  overflow: visible;
+  position: absolute;
+  width: 128.921px;
+  height: 128.955px;
+  left: 371.478px;
+  top: 155.173px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_163_Class {
+  fill: rgba(205, 225, 210, 1);
+}
+.Trazado_163 {
+  overflow: visible;
+  position: absolute;
+  width: 335.71px;
+  height: 448.965px;
+  left: 272.861px;
+  top: 229.656px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_164_Class {
+  fill: rgba(160, 97, 106, 1);
+}
+.Trazado_164 {
+  overflow: visible;
+  position: absolute;
+  width: 134.775px;
+  height: 53.825px;
+  left: 382.146px;
+  top: 590.4px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_165_Class {
+  fill: rgba(47, 46, 65, 1);
+}
+.Trazado_165 {
+  overflow: visible;
+  position: absolute;
+  width: 183.626px;
+  height: 140.253px;
+  left: 355.28px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_166_Class {
+  fill: rgba(205, 225, 210, 1);
+}
+.Trazado_166 {
+  overflow: visible;
+  position: absolute;
+  width: 206.489px;
+  height: 361.29px;
+  left: 486.011px;
+  top: 284.656px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_167_Class {
+  fill: rgba(160, 97, 106, 1);
+}
+.Trazado_167 {
+  overflow: visible;
+  position: absolute;
+  width: 132.792px;
+  height: 97.685px;
+  left: 306.971px;
+  top: 580.936px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_168_Class {
+  fill: rgba(205, 225, 210, 1);
+}
+.Trazado_168 {
+  overflow: visible;
+  position: absolute;
+  width: 175.483px;
+  height: 362.35px;
+  left: 180.508px;
+  top: 280.396px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_169_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_169 {
+  overflow: visible;
+  position: absolute;
+  width: 187.462px;
+  height: 54.506px;
+  left: 339.175px;
+  top: 379.446px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_170_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Trazado_170 {
+  overflow: visible;
+  position: absolute;
+  width: 473.41px;
+  height: 36.32px;
+  left: 190.241px;
+  top: 643.566px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_36_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_36 {
+  position: absolute;
+  overflow: visible;
+  width: 733px;
+  height: 2px;
+  left: 60.5px;
+  top: 671.326px;
+}
+.Trazado_171_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Trazado_171 {
+  overflow: visible;
+  position: absolute;
+  width: 431.561px;
+  height: 253.859px;
+  left: 207.392px;
+  top: 401.326px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Elipse_6_Class {
+  fill: transparent;
+  stroke: rgba(208, 205, 225, 1);
+  stroke-width: 2px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 10;
+  shape-rendering: auto;
+}
+.Elipse_6 {
+  position: absolute;
+  overflow: visible;
+  width: 52px;
+  height: 52px;
+  left: 398.5px;
+  top: 459.326px;
+}
+.Elipse_7_Class {
+  fill: rgba(208, 205, 225, 1);
+}
+.Elipse_7 {
+  position: absolute;
+  overflow: visible;
+  width: 50px;
+  height: 50px;
+  left: 390.5px;
+  top: 468.326px;
+}
+.Rectngulo_37_Class {
+  fill: rgba(208, 205, 225, 1);
+}
+.Rectngulo_37 {
+  position: absolute;
+  overflow: visible;
+  width: 28px;
+  height: 28px;
+  left: 80.446px;
+  top: 661.223px;
+}
+.Trazado_172_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Trazado_172 {
+  overflow: visible;
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 91.45px;
+  top: 639.223px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_38_Class {
+  fill: rgba(208, 205, 225, 1);
+}
+.Rectngulo_38 {
+  position: absolute;
+  overflow: visible;
+  width: 28px;
+  height: 28px;
+  left: 728.446px;
+  top: 661.223px;
+}
+.Trazado_173_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Trazado_173 {
+  overflow: visible;
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 739.45px;
+  top: 639.223px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Elipse_8_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Elipse_8 {
+  position: absolute;
+  overflow: visible;
+  width: 158.681px;
+  height: 158.681px;
+  left: 15.24px;
+  top: 71.433px;
+}
+.Trazado_174_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Trazado_174 {
+  overflow: visible;
+  position: absolute;
+  width: 168.298px;
+  height: 168.298px;
+  left: 27.261px;
+  top: 55.805px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_39_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_39 {
+  position: absolute;
+  overflow: visible;
+  width: 2.404px;
+  height: 16.83px;
+  left: 110.208px;
+  top: 63.018px;
+}
+.Rectngulo_40_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_40 {
+  width: 2.404px;
+  height: 16.83px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 61.7574, 83.0872)
+    rotate(-45deg);
+  transform-origin: center;
+}
+.Rectngulo_41_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_41 {
+  width: 2.404px;
+  height: 16.83px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 41.6869, 131.5387)
+    rotate(-90deg);
+  transform-origin: center;
+}
+.Rectngulo_42_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_42 {
+  width: 2.404px;
+  height: 16.83px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 61.7559, 179.9894)
+    rotate(225deg);
+  transform-origin: center;
+}
+.Rectngulo_43_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_43 {
+  width: 2.404px;
+  height: 16.83px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 158.6593, 83.0849)
+    rotate(225deg);
+  transform-origin: center;
+}
+.Rectngulo_44_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_44 {
+  width: 2.404px;
+  height: 16.83px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 178.7295, 131.5393)
+    rotate(-90deg);
+  transform-origin: center;
+}
+.Rectngulo_45_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_45 {
+  width: 2.404px;
+  height: 16.83px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 158.6614, 179.9902)
+    rotate(-45deg);
+  transform-origin: center;
+}
+.Rectngulo_46_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_46 {
+  position: absolute;
+  overflow: visible;
+  width: 2.404px;
+  height: 16.83px;
+  left: 110.208px;
+  top: 200.06px;
+}
+.Trazado_175_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Trazado_175 {
+  overflow: visible;
+  position: absolute;
+  width: 12.024px;
+  height: 12.023px;
+  left: 105.398px;
+  top: 133.943px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_47_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_47 {
+  position: absolute;
+  overflow: visible;
+  width: 21.638px;
+  height: 21.638px;
+  left: 100.591px;
+  top: 35.369px;
+}
+.Elipse_9_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Elipse_9 {
+  position: absolute;
+  overflow: visible;
+  width: 57.702px;
+  height: 20.436px;
+  left: 82.559px;
+  top: 18.539px;
+}
+.Rectngulo_48_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_48 {
+  position: absolute;
+  overflow: visible;
+  width: 7.213px;
+  height: 40.872px;
+  left: 107.803px;
+  top: 94.273px;
+}
+.Rectngulo_49_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Rectngulo_49 {
+  position: absolute;
+  overflow: visible;
+  width: 226px;
+  height: 2.404px;
+  left: 0px;
+  top: 220.44px;
+}
+.Trazado_176_Class {
+  fill: rgba(208, 205, 225, 1);
+}
+.Trazado_176 {
+  overflow: visible;
+  position: absolute;
+  width: 84.893px;
+  height: 115.727px;
+  left: 65.734px;
+  top: 528.402px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_177_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Trazado_177 {
+  overflow: visible;
+  position: absolute;
+  width: 35.416px;
+  height: 115.722px;
+  left: 89.095px;
+  top: 528.407px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_178_Class {
+  fill: rgba(208, 205, 225, 1);
+}
+.Trazado_178 {
+  overflow: visible;
+  position: absolute;
+  width: 84.893px;
+  height: 115.727px;
+  left: 713.734px;
+  top: 528.402px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_179_Class {
+  fill: rgba(63, 61, 86, 1);
+}
+.Trazado_179 {
+  overflow: visible;
+  position: absolute;
+  width: 35.416px;
+  height: 115.722px;
+  left: 737.095px;
+  top: 528.407px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Home_4_Class {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 3240px;
+  overflow: visible;
+}
+.Rectngulo_50_Class {
+  fill: rgba(213, 239, 230, 1);
+}
+.Rectngulo_50 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_g_Class {
+  left: 1080px;
+  top: 347px;
+  position: absolute;
+  overflow: hidden;
+  width: 753px;
+  height: 113px;
+  text-align: center;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 38px;
+  color: rgba(64, 64, 64, 1);
+  letter-spacing: -0.34px;
+  text-transform: uppercase;
+}
+.Lorem_ipsum_dolor_sit_amet_con_ha_Class {
+  left: 1128px;
+  top: 484px;
+  position: absolute;
+  overflow: visible;
+  width: 658px;
+  height: 285px;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 31px;
+  color: rgba(64, 64, 64, 1);
+  letter-spacing: -0.34px;
+}
+.Grupo_10_Class {
+  position: absolute;
+  width: 883.844px;
+  height: 618.409px;
+  left: 147.156px;
+  top: 249.078px;
+  overflow: visible;
+}
+.Trazado_180_Class {
+  opacity: 0.1;
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_180 {
+  overflow: visible;
+  position: absolute;
+  width: 883.844px;
+  height: 618.41px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_181_Class {
+  fill: rgba(170, 171, 176, 1);
+}
+.Trazado_181 {
+  overflow: visible;
+  position: absolute;
+  width: 8.421px;
+  height: 31.794px;
+  left: 515.702px;
+  top: 502.446px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_182_Class {
+  fill: rgba(170, 171, 176, 1);
+}
+.Trazado_182 {
+  overflow: visible;
+  position: absolute;
+  width: 8.43px;
+  height: 31.794px;
+  left: 389.202px;
+  top: 496.47px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_51_Class {
+  fill: rgba(170, 171, 176, 1);
+}
+.Rectngulo_51 {
+  position: absolute;
+  overflow: visible;
+  width: 10.867px;
+  height: 52.721px;
+  left: 525.485px;
+  top: 449.733px;
+}
+.Rectngulo_52_Class {
+  fill: rgba(170, 171, 176, 1);
+}
+.Rectngulo_52 {
+  position: absolute;
+  overflow: visible;
+  width: 10.867px;
+  height: 64.404px;
+  left: 386.079px;
+  top: 438.042px;
+}
+.Trazado_183_Class {
+  fill: rgba(170, 171, 176, 1);
+}
+.Trazado_183 {
+  overflow: visible;
+  position: absolute;
+  width: 14.943px;
+  height: 46.623px;
+  left: 550.219px;
+  top: 132.182px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_184_Class {
+  fill: rgba(170, 171, 176, 1);
+}
+.Trazado_184 {
+  overflow: visible;
+  position: absolute;
+  width: 14.951px;
+  height: 46.623px;
+  left: 416.243px;
+  top: 132.182px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_185_Class {
+  fill: rgba(170, 171, 176, 1);
+}
+.Trazado_185 {
+  overflow: visible;
+  position: absolute;
+  width: 7.337px;
+  height: 33.971px;
+  left: 431.186px;
+  top: 93.744px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_186_Class {
+  fill: rgba(51, 50, 61, 1);
+}
+.Trazado_186 {
+  overflow: visible;
+  position: absolute;
+  width: 128.538px;
+  height: 55.79px;
+  left: 426.572px;
+  top: 123.015px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_187_Class {
+  fill: rgba(51, 50, 61, 1);
+}
+.Trazado_187 {
+  overflow: visible;
+  position: absolute;
+  width: 136.422px;
+  height: 90.502px;
+  left: 393.417px;
+  top: 428.537px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_188_Class {
+  fill: rgba(68, 64, 83, 1);
+}
+.Trazado_188 {
+  overflow: visible;
+  position: absolute;
+  width: 85.6px;
+  height: 62.496px;
+  left: 473.041px;
+  top: 127.715px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_53_Class {
+  fill: rgba(73, 129, 114, 1);
+}
+.Rectngulo_53 {
+  position: absolute;
+  overflow: visible;
+  width: 79.355px;
+  height: 100.543px;
+  left: 402.246px;
+  top: 399.458px;
+}
+.Trazado_189_Class {
+  fill: rgba(255, 185, 185, 1);
+}
+.Trazado_189 {
+  overflow: visible;
+  position: absolute;
+  width: 13.612px;
+  height: 13.666px;
+  left: 452.36px;
+  top: 433.732px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_54_Class {
+  fill: rgba(80, 79, 96, 1);
+}
+.Rectngulo_54 {
+  position: absolute;
+  overflow: visible;
+  width: 520.911px;
+  height: 260.876px;
+  left: 248.247px;
+  top: 176.083px;
+}
+.Trazado_190_Class {
+  fill: rgba(51, 50, 61, 1);
+}
+.Trazado_190 {
+  overflow: visible;
+  position: absolute;
+  width: 142.71px;
+  height: 68.777px;
+  left: 425.03px;
+  top: 28.231px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_191_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_191 {
+  overflow: visible;
+  position: absolute;
+  width: 142.71px;
+  height: 68.777px;
+  left: 425.03px;
+  top: 28.231px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_192_Class {
+  fill: rgba(51, 50, 61, 1);
+}
+.Trazado_192 {
+  overflow: visible;
+  position: absolute;
+  width: 142.71px;
+  height: 68.777px;
+  left: 425.03px;
+  top: 33.122px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_193_Class {
+  fill: rgba(73, 129, 114, 1);
+}
+.Trazado_193 {
+  overflow: visible;
+  position: absolute;
+  width: 40.721px;
+  height: 95.921px;
+  left: 532.586px;
+  top: 80.162px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_194_Class {
+  fill: rgba(174, 110, 121, 1);
+}
+.Trazado_194 {
+  overflow: visible;
+  position: absolute;
+  width: 28.045px;
+  height: 58.173px;
+  left: 463.273px;
+  top: 247.302px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_195_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_195 {
+  overflow: visible;
+  position: absolute;
+  width: 125.981px;
+  height: 101.628px;
+  left: 440.831px;
+  top: 53.259px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_196_Class {
+  fill: rgba(73, 129, 114, 1);
+}
+.Trazado_196 {
+  overflow: visible;
+  position: absolute;
+  width: 131.111px;
+  height: 101.628px;
+  left: 440.831px;
+  top: 52.443px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_197_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_197 {
+  overflow: visible;
+  position: absolute;
+  width: 17.185px;
+  height: 10.304px;
+  left: 467.13px;
+  top: 247.31px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_198_Class {
+  fill: rgba(73, 129, 114, 1);
+}
+.Trazado_198 {
+  overflow: visible;
+  position: absolute;
+  width: 47.462px;
+  height: 163.349px;
+  left: 440.253px;
+  top: 93.744px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_199_Class {
+  fill: rgba(51, 50, 61, 1);
+}
+.Trazado_199 {
+  overflow: visible;
+  position: absolute;
+  width: 144.885px;
+  height: 48.628px;
+  left: 382.941px;
+  top: 522.286px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_200_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_200 {
+  overflow: visible;
+  position: absolute;
+  width: 144.885px;
+  height: 48.628px;
+  left: 382.941px;
+  top: 522.286px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_201_Class {
+  fill: rgba(51, 50, 61, 1);
+}
+.Trazado_201 {
+  overflow: visible;
+  position: absolute;
+  width: 144.885px;
+  height: 48.628px;
+  left: 382.941px;
+  top: 519.026px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_202_Class {
+  fill: rgba(68, 64, 83, 1);
+}
+.Trazado_202 {
+  overflow: visible;
+  position: absolute;
+  width: 41.224px;
+  height: 57.804px;
+  left: 463.934px;
+  top: 101.88px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_203_Class {
+  fill: rgba(118, 125, 159, 1);
+}
+.Trazado_203 {
+  overflow: visible;
+  position: absolute;
+  width: 88.315px;
+  height: 34.036px;
+  left: 371.682px;
+  top: 436.983px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_204_Class {
+  fill: rgba(255, 185, 185, 1);
+}
+.Trazado_204 {
+  overflow: visible;
+  position: absolute;
+  width: 29.833px;
+  height: 51.123px;
+  left: 461.485px;
+  top: 277.409px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_55_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectngulo_55 {
+  position: absolute;
+  overflow: visible;
+  width: 58.999px;
+  height: 89.13px;
+  left: 430.371px;
+  top: 336.415px;
+}
+.Rectngulo_56_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Rectngulo_56 {
+  position: absolute;
+  overflow: visible;
+  width: 58.999px;
+  height: 89.13px;
+  left: 430.371px;
+  top: 336.415px;
+}
+.Rectngulo_57_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectngulo_57 {
+  width: 58.999px;
+  height: 89.13px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, -0.01px) matrix(1, 0, 0, 1, 450.6874, 336.4612)
+    rotate(8.41deg);
+  transform-origin: center;
+}
+.Rectngulo_58_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Rectngulo_58 {
+  width: 30.368px;
+  height: 45.873px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, -0.01px) matrix(1, 0, 0, 1, 459.4988, 343.0089)
+    rotate(8.41deg);
+  transform-origin: center;
+}
+.Rectngulo_59_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Rectngulo_59 {
+  width: 36.792px;
+  height: 9.962px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, -0.01px) matrix(1, 0, 0, 1, 452.1602, 401.9663)
+    rotate(8.41deg);
+  transform-origin: center;
+}
+.Elipse_10_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Elipse_10 {
+  position: absolute;
+  overflow: visible;
+  width: 68.203px;
+  height: 68.203px;
+  left: 470.734px;
+  top: 43.338px;
+}
+.Elipse_11_Class {
+  fill: rgba(174, 110, 121, 1);
+}
+.Elipse_11 {
+  position: absolute;
+  overflow: visible;
+  width: 68.203px;
+  height: 68.203px;
+  left: 470.734px;
+  top: 42.522px;
+}
+.Trazado_205_Class {
+  fill: rgba(68, 64, 83, 1);
+}
+.Trazado_205 {
+  overflow: visible;
+  position: absolute;
+  width: 94.073px;
+  height: 85.68px;
+  left: 457.327px;
+  top: 17.765px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Elipse_12_Class {
+  fill: rgba(68, 64, 83, 1);
+}
+.Elipse_12 {
+  position: absolute;
+  overflow: visible;
+  width: 1.63px;
+  height: 4.076px;
+  left: 506.8px;
+  top: 115.144px;
+}
+.Elipse_13_Class {
+  fill: rgba(68, 64, 83, 1);
+}
+.Elipse_13 {
+  position: absolute;
+  overflow: visible;
+  width: 1.63px;
+  height: 4.076px;
+  left: 506.8px;
+  top: 123.638px;
+}
+.Trazado_206_Class {
+  fill: rgba(174, 110, 121, 1);
+}
+.Trazado_206 {
+  overflow: visible;
+  position: absolute;
+  width: 9.718px;
+  height: 19.64px;
+  left: 481.601px;
+  top: 285.838px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_207_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_207 {
+  overflow: visible;
+  position: absolute;
+  width: 141.927px;
+  height: 76.699px;
+  left: 365.938px;
+  top: 450.68px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_208_Class {
+  fill: rgba(118, 125, 159, 1);
+}
+.Trazado_208 {
+  overflow: visible;
+  position: absolute;
+  width: 141.927px;
+  height: 76.699px;
+  left: 365.938px;
+  top: 451.495px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Elipse_14_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Elipse_14 {
+  position: absolute;
+  overflow: visible;
+  width: 64.958px;
+  height: 64.958px;
+  left: 402.246px;
+  top: 450.679px;
+}
+.Elipse_15_Class {
+  fill: rgba(255, 185, 185, 1);
+}
+.Elipse_15 {
+  position: absolute;
+  overflow: visible;
+  width: 64.958px;
+  height: 64.958px;
+  left: 402.246px;
+  top: 451.494px;
+}
+.Trazado_209_Class {
+  fill: rgba(185, 107, 107, 1);
+}
+.Trazado_209 {
+  overflow: visible;
+  position: absolute;
+  width: 74.14px;
+  height: 64.945px;
+  left: 398.627px;
+  top: 455.127px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_210_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_210 {
+  overflow: visible;
+  position: absolute;
+  width: 15.734px;
+  height: 9.783px;
+  left: 472.984px;
+  top: 318.749px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_211_Class {
+  fill: rgba(118, 125, 159, 1);
+}
+.Trazado_211 {
+  overflow: visible;
+  position: absolute;
+  width: 36.921px;
+  height: 169.846px;
+  left: 470.92px;
+  top: 319.564px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Grupo_6_Class {
+  opacity: 0.1;
+  position: absolute;
+  width: 94.086px;
+  height: 56.056px;
+  left: 457.358px;
+  top: 47.177px;
+  overflow: visible;
+}
+.Trazado_212_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_212 {
+  overflow: visible;
+  position: absolute;
+  width: 2.74px;
+  height: 23.161px;
+  left: 91.346px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_213_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_213 {
+  overflow: visible;
+  position: absolute;
+  width: 9.424px;
+  height: 19.565px;
+  left: 0px;
+  top: 32.014px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_214_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_214 {
+  overflow: visible;
+  position: absolute;
+  width: 2.241px;
+  height: 10.329px;
+  left: 1.64px;
+  top: 1.557px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_215_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_215 {
+  overflow: visible;
+  position: absolute;
+  width: 82.448px;
+  height: 24.498px;
+  left: 9.169px;
+  top: 31.558px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Grupo_7_Class {
+  opacity: 0.1;
+  position: absolute;
+  width: 40.908px;
+  height: 42.854px;
+  left: 464.089px;
+  top: 117.622px;
+  overflow: visible;
+}
+.Trazado_216_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_216 {
+  overflow: visible;
+  position: absolute;
+  width: 9.204px;
+  height: 9.383px;
+  left: 0px;
+  top: 2.193px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_217_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_217 {
+  overflow: visible;
+  position: absolute;
+  width: 10.728px;
+  height: 4.908px;
+  left: 10.141px;
+  top: 25.542px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_218_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_218 {
+  overflow: visible;
+  position: absolute;
+  width: 16.82px;
+  height: 13.343px;
+  left: 20.173px;
+  top: 29.511px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_219_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_219 {
+  overflow: visible;
+  position: absolute;
+  width: 8.936px;
+  height: 22.696px;
+  left: 31.972px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Grupo_8_Class {
+  opacity: 0.1;
+  position: absolute;
+  width: 74.16px;
+  height: 28.725px;
+  left: 398.625px;
+  top: 454.767px;
+  overflow: visible;
+}
+.Trazado_220_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_220 {
+  overflow: visible;
+  position: absolute;
+  width: 70.112px;
+  height: 25.358px;
+  left: 4.048px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_221_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_221 {
+  overflow: visible;
+  position: absolute;
+  width: 5.382px;
+  height: 7.125px;
+  left: 0px;
+  top: 21.6px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Rectngulo_60_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectngulo_60 {
+  position: absolute;
+  overflow: visible;
+  width: 74.187px;
+  height: 96.744px;
+  left: 497.221px;
+  top: 187.692px;
+}
+.Rectngulo_61_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Rectngulo_61 {
+  position: absolute;
+  overflow: visible;
+  width: 74.187px;
+  height: 96.744px;
+  left: 497.221px;
+  top: 187.692px;
+}
+.Rectngulo_62_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectngulo_62 {
+  width: 74.187px;
+  height: 96.744px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, -0.01px) matrix(1, 0, 0, 1, 534.3039, 198.9675)
+    rotate(-9.76deg);
+  transform-origin: center;
+}
+.Rectngulo_63_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Rectngulo_63 {
+  width: 17.43px;
+  height: 22.729px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, -0.01px) matrix(1, 0, 0, 1, 546.1609, 269.3099)
+    rotate(-9.76deg);
+  transform-origin: center;
+}
+.Rectngulo_64_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Rectngulo_64 {
+  width: 17.43px;
+  height: 22.729px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, -0.01px) matrix(1, 0, 0, 1, 569.9308, 265.217)
+    rotate(-9.76deg);
+  transform-origin: center;
+}
+.Rectngulo_65_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Rectngulo_65 {
+  width: 61.122px;
+  height: 22.831px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, -0.01px) matrix(1, 0, 0, 1, 543.3539, 236.0917)
+    rotate(-9.744deg);
+  transform-origin: center;
+}
+.Rectngulo_66_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Rectngulo_66 {
+  width: 61.122px;
+  height: 5.094px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, -0.01px) matrix(1, 0, 0, 1, 536.8317, 209.364)
+    rotate(-9.744deg);
+  transform-origin: center;
+}
+.Rectngulo_67_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Rectngulo_67 {
+  width: 61.122px;
+  height: 5.094px;
+  position: absolute;
+  overflow: visible;
+  transform: translate(0px, -0.01px) matrix(1, 0, 0, 1, 538.8074, 218.5987)
+    rotate(-9.744deg);
+  transform-origin: center;
+}
+.Trazado_222_Class {
+  fill: rgba(174, 110, 121, 1);
+}
+.Trazado_222 {
+  overflow: visible;
+  position: absolute;
+  width: 35.779px;
+  height: 44.243px;
+  left: 517.147px;
+  top: 161.408px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_223_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_223 {
+  overflow: visible;
+  position: absolute;
+  width: 25.134px;
+  height: 23.438px;
+  left: 531.738px;
+  top: 153.46px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_224_Class {
+  fill: rgba(73, 129, 114, 1);
+}
+.Trazado_224 {
+  overflow: visible;
+  position: absolute;
+  width: 25.134px;
+  height: 23.438px;
+  left: 532.553px;
+  top: 152.645px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_225_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_225 {
+  overflow: visible;
+  position: absolute;
+  width: 1.37px;
+  height: 0.587px;
+  left: 662.159px;
+  top: 328.744px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_226_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_226 {
+  overflow: visible;
+  position: absolute;
+  width: 1.37px;
+  height: 0.587px;
+  left: 662.159px;
+  top: 328.744px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_227_Class {
+  fill: rgba(156, 156, 161, 1);
+}
+.Trazado_227 {
+  overflow: visible;
+  position: absolute;
+  width: 0.815px;
+  height: 0.864px;
+  left: 661.792px;
+  top: 328.173px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_228_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_228 {
+  overflow: visible;
+  position: absolute;
+  width: 0.815px;
+  height: 0.864px;
+  left: 661.792px;
+  top: 328.173px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_229_Class {
+  fill: rgba(156, 156, 161, 1);
+}
+.Trazado_229 {
+  overflow: visible;
+  position: absolute;
+  width: 115.032px;
+  height: 106.121px;
+  left: 627.819px;
+  top: 222.476px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_230_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_230 {
+  overflow: visible;
+  position: absolute;
+  width: 115.032px;
+  height: 106.121px;
+  left: 627.819px;
+  top: 222.476px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_231_Class {
+  fill: rgba(156, 156, 161, 1);
+}
+.Trazado_231 {
+  overflow: visible;
+  position: absolute;
+  width: 115.035px;
+  height: 106.179px;
+  left: 628.632px;
+  top: 222.589px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_232_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_232 {
+  overflow: visible;
+  position: absolute;
+  width: 109.43px;
+  height: 65.615px;
+  left: 662.779px;
+  top: 273.145px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_233_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_233 {
+  overflow: visible;
+  position: absolute;
+  width: 109.43px;
+  height: 65.615px;
+  left: 662.779px;
+  top: 273.145px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_234_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_234 {
+  overflow: visible;
+  position: absolute;
+  width: 109.41px;
+  height: 65.605px;
+  left: 662.608px;
+  top: 272.574px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Grupo_9_Class {
+  opacity: 0.1;
+  position: absolute;
+  width: 80.471px;
+  height: 66.572px;
+  left: 650.229px;
+  top: 250.171px;
+  overflow: visible;
+}
+.Trazado_235_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_235 {
+  overflow: visible;
+  position: absolute;
+  width: 6.668px;
+  height: 6.516px;
+  left: 73.803px;
+  top: 16.921px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_236_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_236 {
+  overflow: visible;
+  position: absolute;
+  width: 6.688px;
+  height: 6.538px;
+  left: 68.336px;
+  top: 20.711px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_237_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_237 {
+  overflow: visible;
+  position: absolute;
+  width: 6.692px;
+  height: 6.54px;
+  left: 62.59px;
+  top: 24.682px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_238_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_238 {
+  overflow: visible;
+  position: absolute;
+  width: 6.679px;
+  height: 6.539px;
+  left: 56.789px;
+  top: 28.705px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_239_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_239 {
+  overflow: visible;
+  position: absolute;
+  width: 6.685px;
+  height: 6.538px;
+  left: 50.979px;
+  top: 32.728px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_240_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_240 {
+  overflow: visible;
+  position: absolute;
+  width: 7.052px;
+  height: 6.864px;
+  left: 45.007px;
+  top: 36.58px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_241_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_241 {
+  overflow: visible;
+  position: absolute;
+  width: 7.065px;
+  height: 6.871px;
+  left: 39.187px;
+  top: 40.598px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_242_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_242 {
+  overflow: visible;
+  position: absolute;
+  width: 7.074px;
+  height: 6.861px;
+  left: 34.061px;
+  top: 44.203px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_243_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_243 {
+  overflow: visible;
+  position: absolute;
+  width: 7.052px;
+  height: 6.861px;
+  left: 28.302px;
+  top: 48.148px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_244_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_244 {
+  overflow: visible;
+  position: absolute;
+  width: 7.052px;
+  height: 6.864px;
+  left: 22.726px;
+  top: 51.971px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_245_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_245 {
+  overflow: visible;
+  position: absolute;
+  width: 7.036px;
+  height: 6.861px;
+  left: 17.174px;
+  top: 55.869px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_246_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_246 {
+  overflow: visible;
+  position: absolute;
+  width: 7.043px;
+  height: 6.848px;
+  left: 11.574px;
+  top: 59.724px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_247_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_247 {
+  overflow: visible;
+  position: absolute;
+  width: 6.668px;
+  height: 6.54px;
+  left: 70.154px;
+  top: 11.613px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_248_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_248 {
+  overflow: visible;
+  position: absolute;
+  width: 6.677px;
+  height: 6.534px;
+  left: 62.099px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_249_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_249 {
+  overflow: visible;
+  position: absolute;
+  width: 6.683px;
+  height: 6.534px;
+  left: 64.665px;
+  top: 15.408px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_250_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_250 {
+  overflow: visible;
+  position: absolute;
+  width: 6.681px;
+  height: 6.516px;
+  left: 58.916px;
+  top: 19.375px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_251_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_251 {
+  overflow: visible;
+  position: absolute;
+  width: 6.69px;
+  height: 6.564px;
+  left: 53.113px;
+  top: 23.394px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_252_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_252 {
+  overflow: visible;
+  position: absolute;
+  width: 6.688px;
+  height: 6.534px;
+  left: 56.759px;
+  top: 3.995px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_253_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_253 {
+  overflow: visible;
+  position: absolute;
+  width: 6.67px;
+  height: 6.508px;
+  left: 51.02px;
+  top: 7.961px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_254_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_254 {
+  overflow: visible;
+  position: absolute;
+  width: 6.69px;
+  height: 6.564px;
+  left: 45.213px;
+  top: 11.986px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_255_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_255 {
+  overflow: visible;
+  position: absolute;
+  width: 6.652px;
+  height: 6.536px;
+  left: 47.333px;
+  top: 27.419px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_256_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_256 {
+  overflow: visible;
+  position: absolute;
+  width: 6.688px;
+  height: 6.538px;
+  left: 41.498px;
+  top: 31.44px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_257_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_257 {
+  overflow: visible;
+  position: absolute;
+  width: 7.052px;
+  height: 6.867px;
+  left: 35.526px;
+  top: 35.292px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_258_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_258 {
+  overflow: visible;
+  position: absolute;
+  width: 7.053px;
+  height: 6.861px;
+  left: 30.392px;
+  top: 38.855px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_259_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_259 {
+  overflow: visible;
+  position: absolute;
+  width: 7.052px;
+  height: 6.861px;
+  left: 24.626px;
+  top: 42.841px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_260_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_260 {
+  overflow: visible;
+  position: absolute;
+  width: 7.035px;
+  height: 6.832px;
+  left: 19.05px;
+  top: 46.697px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_261_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_261 {
+  overflow: visible;
+  position: absolute;
+  width: 6.683px;
+  height: 6.533px;
+  left: 55.102px;
+  top: 13.859px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_262_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_262 {
+  overflow: visible;
+  position: absolute;
+  width: 6.684px;
+  height: 6.546px;
+  left: 49.284px;
+  top: 17.874px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_263_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_263 {
+  overflow: visible;
+  position: absolute;
+  width: 6.685px;
+  height: 6.538px;
+  left: 43.485px;
+  top: 21.902px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_264_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_264 {
+  overflow: visible;
+  position: absolute;
+  width: 6.698px;
+  height: 6.563px;
+  left: 37.68px;
+  top: 25.924px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_265_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_265 {
+  overflow: visible;
+  position: absolute;
+  width: 7.048px;
+  height: 6.87px;
+  left: 31.746px;
+  top: 29.772px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_266_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_266 {
+  overflow: visible;
+  position: absolute;
+  width: 7.049px;
+  height: 6.864px;
+  left: 26.569px;
+  top: 33.335px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_267_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_267 {
+  overflow: visible;
+  position: absolute;
+  width: 7.056px;
+  height: 6.865px;
+  left: 20.808px;
+  top: 37.297px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_268_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_268 {
+  overflow: visible;
+  position: absolute;
+  width: 7.053px;
+  height: 6.871px;
+  left: 15.235px;
+  top: 41.177px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_269_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_269 {
+  overflow: visible;
+  position: absolute;
+  width: 7.052px;
+  height: 6.861px;
+  left: 13.473px;
+  top: 50.562px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_270_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_270 {
+  overflow: visible;
+  position: absolute;
+  width: 7.052px;
+  height: 6.864px;
+  left: 7.897px;
+  top: 54.417px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_271_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_271 {
+  overflow: visible;
+  position: absolute;
+  width: 6.963px;
+  height: 6.77px;
+  left: 16.737px;
+  top: 31.479px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_272_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_272 {
+  overflow: visible;
+  position: absolute;
+  width: 6.95px;
+  height: 6.805px;
+  left: 11.202px;
+  top: 35.334px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_273_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_273 {
+  overflow: visible;
+  position: absolute;
+  width: 6.933px;
+  height: 6.77px;
+  left: 5.625px;
+  top: 39.199px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_274_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_274 {
+  overflow: visible;
+  position: absolute;
+  width: 7.058px;
+  height: 6.861px;
+  left: 0px;
+  top: 43.004px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_275_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_275 {
+  overflow: visible;
+  position: absolute;
+  width: 12.419px;
+  height: 10.842px;
+  left: 60.671px;
+  top: 5.708px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_276_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_276 {
+  overflow: visible;
+  position: absolute;
+  width: 12.764px;
+  height: 11.209px;
+  left: 3.912px;
+  top: 44.734px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_277_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_277 {
+  overflow: visible;
+  position: absolute;
+  width: 23.914px;
+  height: 18.619px;
+  left: 22.379px;
+  top: 15.664px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_278_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_278 {
+  overflow: visible;
+  position: absolute;
+  width: 6.684px;
+  height: 6.546px;
+  left: 724.573px;
+  top: 267.19px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_279_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_279 {
+  overflow: visible;
+  position: absolute;
+  width: 6.688px;
+  height: 6.534px;
+  left: 719.078px;
+  top: 270.984px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_280_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_280 {
+  overflow: visible;
+  position: absolute;
+  width: 6.688px;
+  height: 6.54px;
+  left: 713.372px;
+  top: 274.959px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_281_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_281 {
+  overflow: visible;
+  position: absolute;
+  width: 6.714px;
+  height: 6.583px;
+  left: 707.544px;
+  top: 278.974px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_282_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_282 {
+  overflow: visible;
+  position: absolute;
+  width: 6.679px;
+  height: 6.534px;
+  left: 701.752px;
+  top: 283.001px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_283_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_283 {
+  overflow: visible;
+  position: absolute;
+  width: 7.052px;
+  height: 6.864px;
+  left: 695.774px;
+  top: 286.849px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_284_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_284 {
+  overflow: visible;
+  position: absolute;
+  width: 7.048px;
+  height: 6.87px;
+  left: 689.969px;
+  top: 290.868px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_285_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_285 {
+  overflow: visible;
+  position: absolute;
+  width: 7.032px;
+  height: 6.828px;
+  left: 684.828px;
+  top: 294.431px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_286_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_286 {
+  overflow: visible;
+  position: absolute;
+  width: 7.072px;
+  height: 6.861px;
+  left: 679.069px;
+  top: 298.45px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_287_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_287 {
+  overflow: visible;
+  position: absolute;
+  width: 7.052px;
+  height: 6.867px;
+  left: 673.494px;
+  top: 302.273px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_288_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_288 {
+  overflow: visible;
+  position: absolute;
+  width: 7.049px;
+  height: 6.861px;
+  left: 667.92px;
+  top: 306.138px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_289_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_289 {
+  overflow: visible;
+  position: absolute;
+  width: 7.052px;
+  height: 6.867px;
+  left: 662.341px;
+  top: 309.994px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_290_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_290 {
+  overflow: visible;
+  position: absolute;
+  width: 6.679px;
+  height: 6.542px;
+  left: 720.902px;
+  top: 261.911px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_291_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_291 {
+  overflow: visible;
+  position: absolute;
+  width: 6.683px;
+  height: 6.531px;
+  left: 712.872px;
+  top: 250.294px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_292_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_292 {
+  overflow: visible;
+  position: absolute;
+  width: 6.675px;
+  height: 6.531px;
+  left: 715.432px;
+  top: 265.661px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_293_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_293 {
+  overflow: visible;
+  position: absolute;
+  width: 6.664px;
+  height: 6.536px;
+  left: 709.722px;
+  top: 269.647px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_294_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_294 {
+  overflow: visible;
+  position: absolute;
+  width: 6.684px;
+  height: 6.546px;
+  left: 703.882px;
+  top: 273.663px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_295_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_295 {
+  overflow: visible;
+  position: absolute;
+  width: 6.675px;
+  height: 6.531px;
+  left: 707.532px;
+  top: 254.247px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_296_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_296 {
+  overflow: visible;
+  position: absolute;
+  width: 6.684px;
+  height: 6.542px;
+  left: 701.787px;
+  top: 258.234px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_297_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_297 {
+  overflow: visible;
+  position: absolute;
+  width: 6.686px;
+  height: 6.546px;
+  left: 695.983px;
+  top: 262.258px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_298_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_298 {
+  overflow: visible;
+  position: absolute;
+  width: 6.671px;
+  height: 6.514px;
+  left: 698.075px;
+  top: 277.694px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_299_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_299 {
+  overflow: visible;
+  position: absolute;
+  width: 6.708px;
+  height: 6.575px;
+  left: 692.265px;
+  top: 281.713px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_300_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_300 {
+  overflow: visible;
+  position: absolute;
+  width: 7.026px;
+  height: 6.867px;
+  left: 686.325px;
+  top: 285.561px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_301_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_301 {
+  overflow: visible;
+  position: absolute;
+  width: 7.056px;
+  height: 6.865px;
+  left: 681.154px;
+  top: 289.099px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_302_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_302 {
+  overflow: visible;
+  position: absolute;
+  width: 7.058px;
+  height: 6.861px;
+  left: 675.396px;
+  top: 293.11px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_303_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_303 {
+  overflow: visible;
+  position: absolute;
+  width: 7.037px;
+  height: 6.864px;
+  left: 669.853px;
+  top: 296.966px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_304_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_304 {
+  overflow: visible;
+  position: absolute;
+  width: 6.679px;
+  height: 6.54px;
+  left: 705.869px;
+  top: 264.125px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_305_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_305 {
+  overflow: visible;
+  position: absolute;
+  width: 6.679px;
+  height: 6.536px;
+  left: 700.065px;
+  top: 268.15px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_306_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_306 {
+  overflow: visible;
+  position: absolute;
+  width: 6.661px;
+  height: 6.53px;
+  left: 694.295px;
+  top: 272.179px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_307_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_307 {
+  overflow: visible;
+  position: absolute;
+  width: 6.683px;
+  height: 6.531px;
+  left: 688.447px;
+  top: 276.194px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_308_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_308 {
+  overflow: visible;
+  position: absolute;
+  width: 7.054px;
+  height: 6.871px;
+  left: 682.472px;
+  top: 280.041px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_309_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_309 {
+  overflow: visible;
+  position: absolute;
+  width: 7.033px;
+  height: 6.861px;
+  left: 677.36px;
+  top: 283.604px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_310_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_310 {
+  overflow: visible;
+  position: absolute;
+  width: 7.049px;
+  height: 6.865px;
+  left: 671.58px;
+  top: 287.591px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_311_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_311 {
+  overflow: visible;
+  position: absolute;
+  width: 7.047px;
+  height: 6.87px;
+  left: 666.002px;
+  top: 291.446px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_312_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_312 {
+  overflow: visible;
+  position: absolute;
+  width: 7.059px;
+  height: 6.861px;
+  left: 664.243px;
+  top: 300.83px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_313_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_313 {
+  overflow: visible;
+  position: absolute;
+  width: 7.059px;
+  height: 6.868px;
+  left: 658.667px;
+  top: 304.686px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_314_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_314 {
+  overflow: visible;
+  position: absolute;
+  width: 6.948px;
+  height: 6.77px;
+  left: 667.523px;
+  top: 281.748px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_315_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_315 {
+  overflow: visible;
+  position: absolute;
+  width: 6.929px;
+  height: 6.773px;
+  left: 661.972px;
+  top: 285.604px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_316_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_316 {
+  overflow: visible;
+  position: absolute;
+  width: 6.962px;
+  height: 6.769px;
+  left: 656.354px;
+  top: 289.469px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_317_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_317 {
+  overflow: visible;
+  position: absolute;
+  width: 7.052px;
+  height: 6.865px;
+  left: 650.773px;
+  top: 293.281px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_318_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_318 {
+  overflow: visible;
+  position: absolute;
+  width: 12.426px;
+  height: 10.842px;
+  left: 711.43px;
+  top: 255.994px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_319_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_319 {
+  overflow: visible;
+  position: absolute;
+  width: 12.767px;
+  height: 11.21px;
+  left: 654.679px;
+  top: 295.003px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_320_Class {
+  fill: rgba(70, 74, 95, 1);
+}
+.Trazado_320 {
+  overflow: visible;
+  position: absolute;
+  width: 23.883px;
+  height: 18.601px;
+  left: 673.192px;
+  top: 265.951px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_321_Class {
+  opacity: 0.1;
+  fill: rgba(0, 0, 0, 1);
+}
+.Trazado_321 {
+  overflow: visible;
+  position: absolute;
+  width: 45.34px;
+  height: 40.842px;
+  left: 652.112px;
+  top: 240.431px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_322_Class {
+  fill: rgba(147, 148, 152, 1);
+}
+.Trazado_322 {
+  overflow: visible;
+  position: absolute;
+  width: 45.314px;
+  height: 40.839px;
+  left: 652.65px;
+  top: 240.532px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Trazado_323_Class {
+  fill: rgba(93, 201, 140, 1);
+}
+.Trazado_323 {
+  overflow: visible;
+  position: absolute;
+  width: 98.71px;
+  height: 59.697px;
+  left: 667.646px;
+  top: 275.419px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Footer_Class {
+  position: absolute;
+  width: 1920px;
+  height: 368px;
+  left: 0px;
+  top: 4320px;
+  overflow: visible;
+}
+.Rectngulo_68_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Rectngulo_68 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 368px;
+  left: 0px;
+  top: 0px;
+}
+.Lorem_ipsum_Class {
+  left: 1531px;
+  top: 80px;
+  position: absolute;
+  overflow: visible;
+  width: 189px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 31px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: -0.34px;
+}
+.Lorem_ipsum_l_Class {
+  left: 866px;
+  top: 80px;
+  position: absolute;
+  overflow: visible;
+  width: 189px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 31px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: -0.34px;
+}
+.Lorem_ipsum_ma_Class {
+  left: 187px;
+  top: 80px;
+  position: absolute;
+  overflow: visible;
+  width: 189px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 31px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: -0.34px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_l_Class {
+  left: 819px;
+  top: 151px;
+  position: absolute;
+  overflow: visible;
+  width: 284px;
+  height: 66px;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: -0.34px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_ma_Class {
+  left: 139px;
+  top: 151px;
+  position: absolute;
+  overflow: visible;
+  width: 284px;
+  height: 66px;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: -0.34px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_mb_Class {
+  left: 1499px;
+  top: 151px;
+  position: absolute;
+  overflow: visible;
+  width: 284px;
+  height: 66px;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: -0.34px;
+}
+.Made_by_VagrantDestroyers_with_Class {
+  left: 797px;
+  top: 297px;
+  position: absolute;
+  overflow: visible;
+  width: 327px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: -0.34px;
+}
+.github-brands_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.github-brands {
+  overflow: visible;
+  position: absolute;
+  width: 50px;
+  height: 48.751px;
+  left: 253px;
+  top: 4580px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
