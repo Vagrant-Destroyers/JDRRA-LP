@@ -11,6 +11,15 @@ a.nav-link {
   font-size: 1.5rem;
   color: #ffffff !important;
 }
+#App {
+  border-radius: 2rem;
+  font-size: 1.5rem;
+}
+#AppName {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+}
 /*
 Main
 */
