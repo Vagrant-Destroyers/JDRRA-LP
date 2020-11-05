@@ -157,4 +157,8 @@ Forms
     width: auto;
     height: 600px;
   }
+  /* About Us */
+  #descrop {
+    font-size: 1.5rem;
+  }
 }
