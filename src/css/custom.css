@@ -102,7 +102,20 @@ Forms
     margin-top: 10%;
     height: 25rem;
   }
+  /* Video */
+  #video {
+    width: auto;
+    height: 400px;
+  }
+  /* About Us */
+  #descrop {
+    font-size: 1rem;
+  }
+  #RCE {
+    font-size: 1.85rem;
+  }
 }
+
 @media (min-width: 1400px) {
   /* Nav */
   #clrfNav {
@@ -138,5 +151,10 @@ Forms
     position: relative;
     margin-top: 10%;
     height: 35rem;
+  }
+  /*Video*/
+  #video {
+    width: auto;
+    height: 600px;
   }
 }
