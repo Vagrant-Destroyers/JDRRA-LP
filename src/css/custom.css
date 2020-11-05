@@ -45,31 +45,6 @@ div.sectionHeight {
   background-color: #d5efe6;
 }
 /*
-Forms
-*/
-#form_2 {
-  position: relative;
-  left: 50%;
-  margin-top: 10%;
-  height: 35rem;
-}
-#form_3 {
-  position: relative;
-  margin-top: 10%;
-  height: 35rem;
-}
-#form_4 {
-  position: relative;
-  left: 50%;
-  margin-top: 10%;
-  height: 35rem;
-}
-#form_5 {
-  position: relative;
-  margin-top: 10%;
-  height: 35rem;
-}
-/*
 About
 */
 p.card-text.icons {
@@ -89,4 +64,79 @@ footer {
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+
+@media (min-width: 0px) {
+  /* Nav */
+  #clrfNav {
+    width: 70rem;
+  }
+  /* Main */
+  #first {
+    background-color: #f7f7f7;
+    background: url("../img/form_1.svg") no-repeat 100% -20%;
+    background-size: 50rem;
+  }
+  /*
+Forms
+*/
+  #form_2 {
+    position: relative;
+    left: 20%;
+    margin-top: 10%;
+    height: 25rem;
+  }
+  #form_3 {
+    position: relative;
+    margin-top: 10%;
+    height: 25rem;
+  }
+  #form_4 {
+    position: relative;
+    left: 50%;
+    margin-top: 10%;
+    height: 25rem;
+  }
+  #form_5 {
+    position: relative;
+    margin-top: 10%;
+    height: 25rem;
+  }
+}
+@media (min-width: 1400px) {
+  /* Nav */
+  #clrfNav {
+    width: 100rem;
+  }
+  /* Main */
+  #first {
+    background-color: #f7f7f7;
+    background: url("../img/form_1.svg") no-repeat 115% -30%;
+    background-size: 70rem;
+  }
+  /*
+Forms
+*/
+  #form_2 {
+    position: relative;
+    left: 20%;
+    margin-top: 10%;
+    height: 35rem;
+  }
+  #form_3 {
+    position: relative;
+    margin-top: 10%;
+    height: 35rem;
+  }
+  #form_4 {
+    position: relative;
+    left: 50%;
+    margin-top: 10%;
+    height: 35rem;
+  }
+  #form_5 {
+    position: relative;
+    margin-top: 10%;
+    height: 35rem;
+  }
 }
